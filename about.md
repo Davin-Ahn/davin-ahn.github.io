@@ -4,6 +4,12 @@ title: About
 permalink: /about/
 ---
 
+Hallo, mein Name ist Davin.
+
+Ich bin ein engagierter und leidenschaftlicher Mann und möchte ein solcher Informatiker werden. Während meines Studiums habe ich durch verschiedene Projekte umfangreiche Erfahrungen in den Bereichen Programmierung, Webentwicklung, Datenbanken und Datenanalyse gesammelt und bringe neben meinen technischen Fähigkeiten auch eine hohe Lernbereitschaft, Teamfähigkeit und interkulturelle Kompetenz mit.
+
+Ich bin stets bestrebt, mein Wissen und meine Fähigkeiten weiterzuentwickeln und freue mich darauf, meine Leidenschaft für Informatik einzubringen und neue Herausforderungen anzunehmen.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
