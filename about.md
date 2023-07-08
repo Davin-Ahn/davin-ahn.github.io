@@ -26,23 +26,23 @@ Ich bin stets bestrebt, mein Wissen und meine Fähigkeiten weiterzuentwickeln un
 
 ## Projects:
 
-1.  [project name](./another-page.html):
+1.  [Bachelor Thesis](./another-page.html):
 
     description about this first project
 
-2.  [project name](./another-page.html):
+2.  [Data Analysis](./another-page.html):
 
     description about this second project
 
-3.  [project name](./another-page.html):
+3.  [Web Development](https://github.com/ahndavin/Web_Entwicklung_Uni):
 
     description about this third project
 
-4.  [project name](./another-page.html):
+4.  [Embedded System](./another-page.html):
 
     description about this fourth project
 
-5.  [project name](./another-page.html):
+5.  [IT-Project](./another-page.html):
 
     description about this fifth project
 
@@ -50,20 +50,3 @@ Ich bin stets bestrebt, mein Wissen und meine Fähigkeiten weiterzuentwickeln un
 * * *
 
 Checkout my projects @[Github](https://github.com/Davin-Ahn)
-
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
