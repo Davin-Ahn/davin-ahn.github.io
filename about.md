@@ -49,4 +49,4 @@ I am constantly striving to expand my knowledge and abilities, and look forward 
 
 * * *
 
-Checkout my projects @[Github](https://github.com/ahndavin) and contact me E-mail:[davin.4hn@gmail.com] 
+Checkout my projects @[Github](https://github.com/ahndavin) and contact me <davin.4hn@gmail.com>
