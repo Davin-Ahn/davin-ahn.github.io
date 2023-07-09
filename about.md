@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Hallo, mein Name ist Davin.
+Hi, my name is Davin.
 
-Ich bin ein engagierter und leidenschaftlicher Mann und möchte ein solcher Informatiker werden. Während meines Studiums habe ich durch verschiedene Projekte umfangreiche Erfahrungen in den Bereichen **Programmierung**, **Webentwicklung**, **Datenbanken** und **Datenanalyse** gesammelt und bringe neben meinen technischen Fähigkeiten auch eine hohe **Lernbereitschaft**, **Teamfähigkeit** und **interkulturelle Kompetenz** mit.
+I am a dedicated and passionate individual who aspires to become a skilled computer scientist. During my studies, I have gained extensive experience in data structure, web development, databases, and data analysis through various projects. In addition to my technical skills, I possess a strong eagerness to learn, teamwork and intercultural competence.
 
-Ich bin stets bestrebt, mein Wissen und meine Fähigkeiten weiterzuentwickeln und freue mich darauf, meine Leidenschaft für Informatik einzubringen und neue Herausforderungen anzunehmen.
+I am constantly striving to expand my knowledge and abilities, and look forward to contributing my passion for computer science and taking on new challenges.
 
 
 
@@ -49,4 +49,4 @@ Ich bin stets bestrebt, mein Wissen und meine Fähigkeiten weiterzuentwickeln un
 
 * * *
 
-Checkout my projects @[Github](https://github.com/ahndavin)
+Checkout my projects @[Github](https://github.com/ahndavin), contact me @davin.4hn@gmail.com or 015772906926
