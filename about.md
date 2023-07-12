@@ -14,7 +14,7 @@ I am constantly striving to expand my knowledge and abilities, and look forward 
 
 ## Skills:
 
-**Language** : C, C#, C++, Java, Javascript, Python
+**Language** : C, C#, C++, Java, Python, SQL
 
 **Frontend** : ES6, Typescript, Angular, Jekyll
 
@@ -28,7 +28,7 @@ I am constantly striving to expand my knowledge and abilities, and look forward 
 
 1.  [Bachelor Thesis](https://github.com/ahndavin/Abschlussarbeit_Bachelor):
 
-    미세먼지농도데이터에 존재하는 이상치를 Interquntile Range, z-Score, k-means, Local Outlier Factor 및 Isolation Forest 알고리즘을 이용하여 제거하고 성능지표 SMAPE를 통해 예측모델을 비교 및 평가함.
+    미세먼지농도데이터에 존재하는 이상치를 Interquntile Range, z-Score, k-means, Local Outlier Factor 및 Isolation Forest 알고리즘을 이용하여 제거하고 성능지표 SMAPE과 시각화된 데이터를 통해 예측모델을 비교 및 평가함.
 
 2.  [Data Analysis](./another-page.html):
 
